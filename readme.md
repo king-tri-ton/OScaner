@@ -23,7 +23,7 @@ pip install PyQt5
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/OScanner.git
+git clone https://github.com/king-tri-ton/OScaner.git
 cd OScanner
 ```
 
@@ -47,7 +47,7 @@ python app.py
 
 ## Лицензия
 
-Эта программа является открытым исходным кодом и доступна под [лицензией MIT](LICENSE).
+Эта программа является открытым исходным кодом и доступна под [лицензией MIT](https://choosealicense.com/licenses/mit/).
 
 ## Благодарности
 
